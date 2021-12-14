@@ -11,6 +11,7 @@ Exemple :
 
 https://fileinfo.fr/extension/eml 
 https://www.commentcamarche.net/contents/381-fichier-eml 
+https://docs.ovh.com/fr/emails/recuperation-des-entetes-e-mails/
 
 
 Partie 2: 
