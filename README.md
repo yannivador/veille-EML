@@ -9,9 +9,12 @@ Exemple :
 ![image](https://user-images.githubusercontent.com/40361420/145761112-022412c9-7af0-4e7b-9b18-d6d3ff48240e.png)
 
 
-https://fileinfo.fr/extension/eml 
+https://fileinfo.fr/extension/eml
 https://www.commentcamarche.net/contents/381-fichier-eml 
 https://docs.ovh.com/fr/emails/recuperation-des-entetes-e-mails/
+librairie : 
+https://www.npmjs.com/package/eml-format?activeTab=readme
+
 
 
 Partie 2: 
